@@ -1,0 +1,2 @@
+# SimpleVanillaJSProjects
+Created with CodeSandbox
